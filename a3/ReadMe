@@ -1,0 +1,14 @@
+CSC360 Assignment 3 
+Leanne Feng
+V00825004
+
+
+First type in command: make
+
+To run the 4 programs:
+./diskinfo <INPUT FILE>
+./disklist <INPUT FILE>
+./diskget <INPUT FILE> <FILENAME>
+./diskput <INPUT FILE> <FILENAME>
+
+
